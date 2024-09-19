@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .learner {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+  }
+  
+  .score {
+    margin: 4px 0;
+  }
+  
